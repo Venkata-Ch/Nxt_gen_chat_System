@@ -1,0 +1,9 @@
+pandas
+langchain
+openai
+docker
+singlestoredb
+mysql-connector-python
+openpyxl
+streamlit
+configparser
